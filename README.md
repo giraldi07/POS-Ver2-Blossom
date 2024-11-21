@@ -1,10 +1,4 @@
-## Author 
 
-Welcome to a unique project that goes beyond the ordinary. I bring to you MystockMaster, a solution born out of my experience in the retail and ecommerce sectors, particularly in electronics such as PCs and smartphones. My continuous vigilance over critical aspects like user-friendliness and robustness aims to position us as the best in the open-source web apps category.
-
-I extend heartfelt gratitude to the Laravel community for their contributions, which have been a source of immense learning. Now, it's my turn to contribute and give back.
-
-(✌) سلام
 
 ## Overview 
 
@@ -28,11 +22,6 @@ Features:
     and more...
 
 Built with Laravel 9, Livewire, AlpineJs, and Tailwind CSS, ensuring a fast and responsive user experience. Try it out today and witness how it streamlines inventory management, propelling your business forward.
-
-## Demo
-
-You can check the demo here: 
-[https://test.hotechserver.com](https://test.hotechserver.com)
 
 
 ## Login with the following credentials
@@ -87,23 +76,3 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 | --- | --- |
 | ![Sale Create](screens/sale-create.png) | ![Customer Create](screens/customer-modal.png) |
 
-## Contact
-
--   [Twitter](https://twitter.com/zakarialabib)
--   [LinkedIn](https://www.linkedin.com/in/zakaria-labib/)
--   [GitHub](https://www.github.com/zakarialabib/)
-
-## Donate
-
-If you like this project, leave a star and share it with your friends.
-
-## Contributors
-
-| Contributor | GitHub Profile |
-| --- | --- |
-| [Zakarialabib](https://github.com/Zakarialabib) | [![Avatar](https://github.com/Zakarialabib.png?size=50)](https://github.com/Zakarialabib) |
-| [dependabot[bot]](https://github.com/dependabot[bot]) | [![Avatar](https://github.com/dependabot[bot].png?size=50)](https://github.com/dependabot[bot]) |
-| [elmarzouguidev](https://github.com/elmarzouguidev) | [![Avatar](https://github.com/elmarzouguidev.png?size=50)](https://github.com/elmarzouguidev) |
-| [bilton30](https://github.com/bilton30) | [![Avatar](https://github.com/bilton30.png?size=50)](https://github.com/bilton30) |
-| [ismaail](https://github.com/ismaail) | [![Avatar](https://github.com/ismaail.png?size=50)](https://github.com/ismaail) |
-| [yassinebenaid](https://github.com/yassinebenaid) | [![Avatar](https://github.com/yassinebenaid.png?size=50)](https://github.com/yassinebenaid) |
